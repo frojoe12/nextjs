@@ -1,1 +1,1 @@
-export default () => <p1>Hello</p1>
+export default () => <p1>Hello Next JS project</p1>
